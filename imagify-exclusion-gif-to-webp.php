@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Imagify (Exclude GIF from WEBP)
  * Description: Exclude GIF images from WEBP conversion.
- * Plugin URI: https://www.imagify.io
+ * Plugin URI: https://imagify.io
  * Author: Imagify
  * Version: 1.0.0
  */
